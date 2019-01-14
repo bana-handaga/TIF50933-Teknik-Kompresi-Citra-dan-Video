@@ -1,12 +1,9 @@
 # TIF50933-Teknik-Kompresi-Citra-dan-Video
 
+# Bahan UAS (Ganjil 2018/2019)
 
-## Bahan UTS (sem ganjil 2018/2019)
-
-1. Variasi file image terkait kualitas dan ukuran file
-2. Teknik kompresi
-3. Algoritma kompresi
+1. Konsep dasar Teknik kompresi 
+2. Algoritma kompresi Hoffmann
+3. Konsep teknologi Video
 
 note: *open cheatsheet 1 lembar A4*
-
-Catatan kuliah semester Ganjil 2018
